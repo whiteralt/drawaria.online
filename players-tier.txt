@@ -24,7 +24,7 @@ i don't write very common names of non-accounts in that text database
 # {Types]
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 [Personal data asker]-------------------------------------------
-                             |NaN
+unnamed dudes that "new"     |NaN
 ================================================================
 [BABYTHING]-----------------------------------------------------
 13 car(d/t)ishniki           |2/10 or different
