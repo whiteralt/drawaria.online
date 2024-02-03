@@ -6,7 +6,8 @@ Some informations of https://drawaria.online site
 # Players Tier
 Or reestr, example: **uh no, i don't know how to use *MARKDOWN*.**
 
-[Go to players-tier.txt](https://github.com/whiteralt/drawaria.online-info/blob/main/players-tier.txt)
+[Go to players-tier](https://github.com/whiteralt/drawaria.online-info/blob/main/players-tier.md)[.md](https://whiteralt.github.io/drawaria.online-info/players-tier.md)
+
 .
 
 .
